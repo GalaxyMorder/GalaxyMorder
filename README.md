@@ -3,7 +3,7 @@
 <h3 align="center">
 CAD Designer | Tech Enthusiast.
 </h3>
-https://readme-typing-svg.herokuapp.com/demo/?lines=CAD+Designer;Software+Learner;Always+Building+Something
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=CAD+Designer;Software+Learner;Always+Building+Something)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
